@@ -1,0 +1,6 @@
+Cidade,Temperatura (°C),Umidade (%),Pressão (hPa),Descrição,Hora de Coleta,Latitude,Longitude
+São Paulo,26.33,69,1010,nuvens dispersas,2024-11-20 17:32:17,-23.5475,-46.6361
+Rio de Janeiro,25.17,80,1011,nuvens quebradas,2024-11-20 17:32:18,-22.9028,-43.2075
+Belo Horizonte,31.44,37,1011,nuvens dispersas,2024-11-20 17:32:18,-19.9208,-43.9378
+Salvador,30.02,82,1011,nublado,2024-11-20 17:32:19,13.8333,-88.9167
+Curitiba,21.93,70,1013,nuvens quebradas,2024-11-20 17:32:19,-25.504,-49.2908
